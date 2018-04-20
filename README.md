@@ -23,4 +23,4 @@ Carbon Monoxide - Nemoto NAP505 with TI's LMP91000
 
 Temp and Humid with Tvoc - Bosch BME680
 
-Formaldehyde - Wuhan Cubic : CB-HCHO
+Formaldehyde - WUHAN CUBIC : CB-HCHO
