@@ -2,6 +2,7 @@
 ===================================
 
 nRF52 based air quality monitor, seperated sensor operation for more suitable measurement
+
 nRF52 Via U-Blox's NINA-B111 Module for smaller size 
 
 
