@@ -13,12 +13,12 @@ Mech - SolidWorks 2017
 
 ## Support Sensor
 
-particulate matter ( PM1.0 / PM2.5 ) - Wuhan Cubic : PM2006
+particulate matter ( PM1.0 / PM2.5 ) - WUHAN CUBIC : PM2006
 
-Carbon Dioxde - Wuhan Cubic : CM1106
+Carbon Dioxde - WUHAN CUBIC : CM1106LP
 
-Carbon Monoxide - Nemoto NAP505
+Carbon Monoxide - Nemoto NAP505 with TI's LMP91000
 
-Temp and HumidSensor - Sensirion SHT30
+Temp and Humid with Tvoc - Bosch BME680
 
 Formaldehyde - Wuhan Cubic : CB-HCHO
