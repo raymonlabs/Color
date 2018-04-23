@@ -3,21 +3,21 @@
 
 nRF52 based air quality monitor, seperated sensor operation for more suitable measurement
 
-nRF52 Via U-Blox's NINA-B111 Module for smaller size 
+nRF52810-QCAA For smaller and cheaper manufacturing
 
 
 # Design Tool
 
 EDA - Altium Designer V18
 
-Mech - SolidWorks 2017
+Mech - SolidWorks 2017 / Autocad 2017
 
 
 ## Support Sensor
 
 particulate matter ( PM1.0 / PM2.5 ) - WUHAN CUBIC : PM2006
 
-Carbon Dioxde - WUHAN CUBIC : CM1106LP
+Carbon Dioxde - WUHAN CUBIC : CM1106
 
 Carbon Monoxide - Nemoto NAP505 with TI's LMP91000
 
