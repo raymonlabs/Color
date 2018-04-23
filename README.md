@@ -3,7 +3,6 @@
 
 nRF52 based air quality monitor, seperated sensor operation for more suitable measurement
 
-nRF52810-QCAA For smaller and cheaper manufacturing
 
 
 # Design Tool
