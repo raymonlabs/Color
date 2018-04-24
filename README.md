@@ -3,7 +3,7 @@
 
 nRF52 based air quality monitor, seperated sensor operation for more suitable measurement
 
-[Software Repo]{https://github.com/colorful-fish}
+[Software Repo](https://github.com/colorful-fish)
 
 
 # Design Tool
