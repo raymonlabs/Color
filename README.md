@@ -5,6 +5,8 @@ nRF52 based air quality monitor, seperated sensor operation for more suitable me
 
 [Software Repo](https://github.com/colorful-fish)
 
+PM2.5 + Co2 + TVoc + TH/R Version Complete/ V1.1
+
 
 # Design Tool
 
