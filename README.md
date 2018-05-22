@@ -1,6 +1,10 @@
  Color - open source air quality monitor with nRF52
 ===================================
 
+Revision 1.2 will be update soon - May 22 
+( only pdf schematic updated )
+
+
 nRF52 based air quality monitor, seperated sensor operation for more suitable measurement
 
 [Software Repo](https://github.com/colorful-fish)
